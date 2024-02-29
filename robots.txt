@@ -1,0 +1,4 @@
+Sitemap: https://boxbot6.github.io/easy-mode-replica-widgets-v1/sitemap.xml
+
+User-agent: *
+Disallow:
